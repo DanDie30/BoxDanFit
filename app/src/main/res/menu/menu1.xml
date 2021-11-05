@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/op1"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/Configuracion"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/op2"
+        android:icon="@android:drawable/btn_star"
+        android:title="@string/Premium"
+        app:showAsAction="always" />
+</menu>
